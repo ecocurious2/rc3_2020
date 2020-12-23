@@ -49,7 +49,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/timbregirlelevator.mp3"
+                 "value":"https:\/\/archive.org\/details\/Best_Of_Breitband_Vol5_12557\/Mobster_-_09_-_Et_lair_Et_La_Mer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
