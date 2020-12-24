@@ -272,6 +272,8 @@
          "height":26,
          "id":27,
          "name":"Sofa",
+         "offsetx":0,
+         "offsety":-8,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
