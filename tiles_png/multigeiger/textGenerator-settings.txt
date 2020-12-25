@@ -5,3 +5,10 @@ Margin top 5 px
 Margin left 4 px
 Color #FF00FF
 
+https://rc3.pages.git.cccv.de/world-maps/tools/textGenerator.html
+Font GL-Nummernschild-Eng
+Size 24px
+Margin top 5 px
+Margin left 4 px
+Color #FF00FF
+
