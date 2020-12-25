@@ -1,3 +1,9 @@
+https://rc3.pages.git.cccv.de/world-maps/tools/textGenerator.html
+Font: Hack 20pt
+Margin top: 5px
+Margin left: 4px
+Color: #FF00FF
+
 Multigeiger-
 Online-
 Assembly
@@ -39,4 +45,8 @@ Jitsi
 Videokonferenz
 Welcome to
 Informationsseite
+Citysensor
+Multigeiger
+Radioactivity
+Live-Map
 
