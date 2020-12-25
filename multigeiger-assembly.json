@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/embed\/Ai0ALfrHqAo"
+                 "value":"https:\/\/youtube.com\/embed\/Ai0ALfrHqAo"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/embed\/mnU_PRnkkl0"
+                 "value":"https:\/\/youtube.com\/embed\/mnU_PRnkkl0"
                 }],
          "type":"tilelayer",
          "visible":true,
