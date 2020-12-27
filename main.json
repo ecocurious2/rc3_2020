@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/ecocurious2\/rc3_2020\/raw\/main\/wikidata\/query-01--with%20service%20entry%20and%20retirement%20dates%20-%20no%20aggregation.txt"
+                 "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/9jBNTdcRDRLEG5r"
                 }],
          "type":"tilelayer",
          "visible":true,
