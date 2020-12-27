@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/hardware-making.json#start_multigeiger}"
+                 "value":"{<lobby>hardware-making.json#start_multigeiger}"
                 }],
          "type":"tilelayer",
          "visible":true,
