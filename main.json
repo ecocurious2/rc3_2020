@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"multigeiger-meetup-carpet"
+                 "value":"multigeiger-meetup-carpet-southeast"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"multigeiger-meetup-bar-ost"
+                 "value":"multigeiger-meetup-bar-east"
                 }],
          "type":"tilelayer",
          "visible":true,
