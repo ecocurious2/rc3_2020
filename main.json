@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<openbikesensor>\/main.json#start_openbikesensor}"
+                 "value":"{<openbikesensor>\/house1.json#startFriends}"
                 }],
          "type":"tilelayer",
          "visible":true,
