@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hangar.rc3.world\/multigeiger\/20201226_rC3_00_Multigeiger_Hardware.mp4"
+                 "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/GKYFe37K2PT52rt"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hangar.rc3.world\/multigeiger\/multigeiger-video-software-komplett.mp4"
+                 "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/DWcYpgdjQfYLPJY"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hangar.rc3.world\/multigeiger\/Infoflyer.pdf"
+                 "value":"https:\/\/github.com\/ecocurious2\/rc3_2020\/raw\/main\/infoflyer\/Infoflyer.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
