@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/hardware-making.json#start_multigeiger}"
+                 "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
