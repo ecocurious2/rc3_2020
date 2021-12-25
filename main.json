@@ -570,6 +570,27 @@
  "nextlayerid":53,
  "nextobjectid":10,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Multigeiger Assembly rc3_2021"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/ecocurious2\/rc3_2020"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Multigeiger Assembly rc3_2021"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
