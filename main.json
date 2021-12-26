@@ -59,6 +59,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"mp3\/Mobster_-_09_-_Et_lair_Et_La_Mer__CC_BY-NC-ND-3.0.mp3"
                 }],
@@ -148,9 +153,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ecocurious.de\/projekte\/multigeiger-2\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -166,9 +176,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/multigeiger.readthedocs.io"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -184,9 +199,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zumpad.zum.de\/p\/r.c005c59c60a7b4bcb8efb0b0664b60b9"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -202,9 +222,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/multigeiger.citysensor.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,9 +245,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/GKYFe37K2PT52rt"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -238,9 +268,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/BqSWEGHyGpkRC8C"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -256,9 +291,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/DWcYpgdjQfYLPJY"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -274,9 +314,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/9jBNTdcRDRLEG5r"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -292,9 +337,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/github.com\/ecocurious2\/MultiGeiger\/raw\/master\/docs\/Bauanleitung\/Aufbauanleitung.pdf"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -310,9 +360,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/github.com\/ecocurious2\/rc3_2020\/raw\/main\/infoflyer\/Infoflyer.pdf"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -328,9 +383,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/r8.whiteboardfox.com\/82160042-4107-5227"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,6 +409,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zumpad.zum.de\/p\/multigeiger-messages-to-the-team-rc3"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
