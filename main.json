@@ -101,7 +101,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"MultigeigerBBB"
+                 "value":"bbb:\/\/Multigeiger\/multigeigerbbb"
                 }, 
                 {
                  "name":"bbbTrigger",
@@ -678,17 +678,17 @@
         {
          "columns":16,
          "firstgid":1,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/deco\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -806,17 +806,17 @@
         {
          "columns":16,
          "firstgid":257,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/structures\/rc3-mullana-overlay.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -825,17 +825,17 @@
         {
          "columns":16,
          "firstgid":769,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/structures\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -844,17 +844,17 @@
         {
          "columns":16,
          "firstgid":1025,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/deco\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -863,17 +863,17 @@
         {
          "columns":16,
          "firstgid":1153,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/structures\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -882,17 +882,17 @@
         {
          "columns":3,
          "firstgid":1281,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/furniture\/23_tisch_weiss_1.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
          "name":"23_tisch_weiss_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -901,17 +901,17 @@
         {
          "columns":4,
          "firstgid":1287,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/misc\/57_zettelfoo.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
          "name":"57_zettelfoo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -920,17 +920,17 @@
         {
          "columns":1,
          "firstgid":1299,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/misc\/65_tischdokumente_2.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
          "name":"65_tischdokumente_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -939,17 +939,17 @@
         {
          "columns":16,
          "firstgid":1301,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/c3gelb.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -958,17 +958,17 @@
         {
          "columns":2,
          "firstgid":2325,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/misc_set.png",
          "imageheight":832,
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -977,17 +977,17 @@
         {
          "columns":16,
          "firstgid":2377,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/misc.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1089,17 +1089,17 @@
         {
          "columns":1,
          "firstgid":3401,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/food_and_drinks\/10_coffee.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
          "name":"10_coffee",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1108,17 +1108,17 @@
         {
          "columns":1,
          "firstgid":3402,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/testing\/broken_glass_1.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
          "name":"broken_glass_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1127,17 +1127,17 @@
         {
          "columns":9,
          "firstgid":3403,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1213,17 +1213,17 @@
         {
          "columns":16,
          "firstgid":3412,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/structures\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1232,17 +1232,17 @@
         {
          "columns":33,
          "firstgid":3668,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/texte.png",
          "imageheight":1056,
          "imagewidth":1056,
          "margin":0,
          "name":"texte",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -1251,17 +1251,17 @@
         {
          "columns":2,
          "firstgid":4757,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/merkel-96.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
          "name":"merkel-96",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1270,17 +1270,17 @@
         {
          "columns":2,
          "firstgid":4763,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/merkel-64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"merkel-64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1289,17 +1289,17 @@
         {
          "columns":16,
          "firstgid":4767,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1308,17 +1308,17 @@
         {
          "columns":16,
          "firstgid":5023,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1327,17 +1327,17 @@
         {
          "columns":1,
          "firstgid":6047,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/ISO_7010_W003-32-22.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
          "name":"ISO_7010_W003-32-22",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -1346,17 +1346,17 @@
         {
          "columns":4,
          "firstgid":6048,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/whiteboard-128x96.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
          "name":"whiteboard-128x96",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1365,17 +1365,17 @@
         {
          "columns":4,
          "firstgid":6060,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/whiteboard-128x96-citysensor-multigeiger.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
          "name":"whiteboard-128x96-citysensor-multigeiger",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1384,17 +1384,17 @@
         {
          "columns":9,
          "firstgid":6072,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/zeitplan.png",
          "imageheight":224,
          "imagewidth":314,
          "margin":0,
          "name":"zeitplan",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":63,
          "tileheight":32,
@@ -1403,17 +1403,17 @@
         {
          "columns":2,
          "firstgid":6135,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/L\u00f6tkolben-64x64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"L\u00f6tkolben-64x64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1422,17 +1422,17 @@
         {
          "columns":33,
          "firstgid":6139,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/texte-gl-nummernschild-eng.png",
          "imageheight":1056,
          "imagewidth":1056,
          "margin":0,
          "name":"texte-gl-nummernschild-eng",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -1441,17 +1441,17 @@
         {
          "columns":2,
          "firstgid":7228,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-64x32.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
          "name":"Banner-64x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1460,17 +1460,17 @@
         {
          "columns":3,
          "firstgid":7230,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-96x64.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
          "name":"Banner-96x64",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1479,17 +1479,17 @@
         {
          "columns":2,
          "firstgid":7236,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-64x64--perspektivisch-links.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
          "name":"Banner-64x64--perspektivisch-links",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1498,17 +1498,17 @@
         {
          "columns":3,
          "firstgid":7240,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-96x96--perspektivisch-rechts.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
          "name":"Banner-96x96--perspektivisch-rechts",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1517,17 +1517,17 @@
         {
          "columns":4,
          "firstgid":7249,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-128x128-Fluchtpunkt-links.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
          "name":"Banner-128x128-Fluchtpunkt-links",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -1536,17 +1536,17 @@
         {
          "columns":2,
          "firstgid":7265,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/kamera-1-und-2.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
          "name":"kamera-1-und-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1555,17 +1555,17 @@
         {
          "columns":8,
          "firstgid":7267,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Firefox advice.png",
          "imageheight":32,
          "imagewidth":256,
          "margin":0,
          "name":"Firefox advice",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -1574,17 +1574,17 @@
         {
          "columns":6,
          "firstgid":7275,
-         "properties":[
-         {
-         "name":"tilesetCopyright",
-         "type":"string",
-         "value":"t.b.d."
-         }],
          "image":"tiles_png\/multigeiger\/Zur OpenBikeSensor Assembly.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
          "name":"Zur OpenBikeSensor Assembly",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"t.b.d."
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
