@@ -99,9 +99,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"multigeiger-meetup-carpet-southeast"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -117,9 +122,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"multigeiger-meetup-bar-east"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -135,9 +145,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"onaction",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"multigeiger-meetup-bar-west"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
