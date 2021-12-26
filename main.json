@@ -102,11 +102,6 @@
                  "name":"bbbRoom",
                  "type":"string",
                  "value":"bbb:\/\/Multigeiger\/multigeigerbbb"
-                }, 
-                {
-                 "name":"bbbTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,11 +120,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"multigeiger-meetup-bar-east"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -148,11 +138,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"multigeiger-meetup-bar-west"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,11 +156,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ecocurious.de\/projekte\/multigeiger-2\/"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -194,11 +174,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/multigeiger.readthedocs.io"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -217,11 +192,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zumpad.zum.de\/p\/r.c005c59c60a7b4bcb8efb0b0664b60b9"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -240,11 +210,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/multigeiger.citysensor.de"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -263,11 +228,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/GKYFe37K2PT52rt"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -286,11 +246,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/BqSWEGHyGpkRC8C"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -309,11 +264,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/DWcYpgdjQfYLPJY"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -332,11 +282,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.opteryx.org\/index.php\/s\/9jBNTdcRDRLEG5r"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,11 +300,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/github.com\/ecocurious2\/MultiGeiger\/raw\/master\/docs\/Bauanleitung\/Aufbauanleitung.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,11 +318,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/github.com\/ecocurious2\/rc3_2020\/raw\/main\/infoflyer\/Infoflyer.pdf"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -401,11 +336,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/r8.whiteboardfox.com\/82160042-4107-5227"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -424,11 +354,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zumpad.zum.de\/p\/multigeiger-messages-to-the-team-rc3"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
