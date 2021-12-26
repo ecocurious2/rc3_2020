@@ -101,7 +101,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb:\/\/Multigeiger\/multigeigerbbb"
+                 "value":"MultigeigerBBB"
                 }, 
                 {
                  "name":"bbbTrigger",
@@ -678,6 +678,12 @@
         {
          "columns":16,
          "firstgid":1,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/deco\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
@@ -800,6 +806,12 @@
         {
          "columns":16,
          "firstgid":257,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/structures\/rc3-mullana-overlay.png",
          "imageheight":1024,
          "imagewidth":512,
@@ -813,6 +825,12 @@
         {
          "columns":16,
          "firstgid":769,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/structures\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
@@ -826,6 +844,12 @@
         {
          "columns":16,
          "firstgid":1025,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/deco\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
@@ -839,6 +863,12 @@
         {
          "columns":16,
          "firstgid":1153,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/structures\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
@@ -852,6 +882,12 @@
         {
          "columns":3,
          "firstgid":1281,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/furniture\/23_tisch_weiss_1.png",
          "imageheight":64,
          "imagewidth":96,
@@ -865,6 +901,12 @@
         {
          "columns":4,
          "firstgid":1287,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/misc\/57_zettelfoo.png",
          "imageheight":96,
          "imagewidth":128,
@@ -878,6 +920,12 @@
         {
          "columns":1,
          "firstgid":1299,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/misc\/65_tischdokumente_2.png",
          "imageheight":64,
          "imagewidth":32,
@@ -891,6 +939,12 @@
         {
          "columns":16,
          "firstgid":1301,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/c3gelb.png",
          "imageheight":2048,
          "imagewidth":512,
@@ -904,6 +958,12 @@
         {
          "columns":2,
          "firstgid":2325,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/misc_set.png",
          "imageheight":832,
          "imagewidth":64,
@@ -917,6 +977,12 @@
         {
          "columns":16,
          "firstgid":2377,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/misc.png",
          "imageheight":2048,
          "imagewidth":512,
@@ -1023,6 +1089,12 @@
         {
          "columns":1,
          "firstgid":3401,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/food_and_drinks\/10_coffee.png",
          "imageheight":32,
          "imagewidth":32,
@@ -1036,6 +1108,12 @@
         {
          "columns":1,
          "firstgid":3402,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/testing\/broken_glass_1.png",
          "imageheight":32,
          "imagewidth":32,
@@ -1049,6 +1127,12 @@
         {
          "columns":9,
          "firstgid":3403,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
@@ -1129,6 +1213,12 @@
         {
          "columns":16,
          "firstgid":3412,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/structures\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
@@ -1142,6 +1232,12 @@
         {
          "columns":33,
          "firstgid":3668,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/texte.png",
          "imageheight":1056,
          "imagewidth":1056,
@@ -1155,6 +1251,12 @@
         {
          "columns":2,
          "firstgid":4757,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/merkel-96.png",
          "imageheight":96,
          "imagewidth":64,
@@ -1168,6 +1270,12 @@
         {
          "columns":2,
          "firstgid":4763,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/merkel-64.png",
          "imageheight":64,
          "imagewidth":64,
@@ -1181,6 +1289,12 @@
         {
          "columns":16,
          "firstgid":4767,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
@@ -1194,6 +1308,12 @@
         {
          "columns":16,
          "firstgid":5023,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/community\/cert\/imgs\/tilesheets\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
@@ -1207,6 +1327,12 @@
         {
          "columns":1,
          "firstgid":6047,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/ISO_7010_W003-32-22.png",
          "imageheight":32,
          "imagewidth":32,
@@ -1220,6 +1346,12 @@
         {
          "columns":4,
          "firstgid":6048,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/whiteboard-128x96.png",
          "imageheight":96,
          "imagewidth":128,
@@ -1233,6 +1365,12 @@
         {
          "columns":4,
          "firstgid":6060,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/whiteboard-128x96-citysensor-multigeiger.png",
          "imageheight":96,
          "imagewidth":128,
@@ -1246,6 +1384,12 @@
         {
          "columns":9,
          "firstgid":6072,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/zeitplan.png",
          "imageheight":224,
          "imagewidth":314,
@@ -1259,6 +1403,12 @@
         {
          "columns":2,
          "firstgid":6135,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/L\u00f6tkolben-64x64.png",
          "imageheight":64,
          "imagewidth":64,
@@ -1272,6 +1422,12 @@
         {
          "columns":33,
          "firstgid":6139,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/texte-gl-nummernschild-eng.png",
          "imageheight":1056,
          "imagewidth":1056,
@@ -1285,6 +1441,12 @@
         {
          "columns":2,
          "firstgid":7228,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-64x32.png",
          "imageheight":32,
          "imagewidth":64,
@@ -1298,6 +1460,12 @@
         {
          "columns":3,
          "firstgid":7230,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-96x64.png",
          "imageheight":64,
          "imagewidth":96,
@@ -1311,6 +1479,12 @@
         {
          "columns":2,
          "firstgid":7236,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-64x64--perspektivisch-links.png",
          "imageheight":64,
          "imagewidth":64,
@@ -1324,6 +1498,12 @@
         {
          "columns":3,
          "firstgid":7240,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-96x96--perspektivisch-rechts.png",
          "imageheight":96,
          "imagewidth":96,
@@ -1337,6 +1517,12 @@
         {
          "columns":4,
          "firstgid":7249,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Fotos\/Banner-128x128-Fluchtpunkt-links.png",
          "imageheight":128,
          "imagewidth":128,
@@ -1350,6 +1536,12 @@
         {
          "columns":2,
          "firstgid":7265,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/kamera-1-und-2.png",
          "imageheight":32,
          "imagewidth":64,
@@ -1363,6 +1555,12 @@
         {
          "columns":8,
          "firstgid":7267,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Firefox advice.png",
          "imageheight":32,
          "imagewidth":256,
@@ -1376,6 +1574,12 @@
         {
          "columns":6,
          "firstgid":7275,
+         "properties":[
+         {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"t.b.d."
+         }],
          "image":"tiles_png\/multigeiger\/Zur OpenBikeSensor Assembly.png",
          "imageheight":32,
          "imagewidth":192,
