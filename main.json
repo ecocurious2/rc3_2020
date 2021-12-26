@@ -93,7 +93,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice1.somafm.com\/groovesalad-128-mp3"
+                 "value":"https:\/\/ice1.somafm.com\/groovesalad-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
