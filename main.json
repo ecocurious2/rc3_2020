@@ -134,7 +134,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"bbb:\/\/Multigeiger\/multigeigerbbb"
+                 "value":"bbb:\/\/Multigeiger\/bbb\/multigeigerbbb"
                 }],
          "type":"tilelayer",
          "visible":true,
