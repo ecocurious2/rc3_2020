@@ -1,0 +1,58 @@
+Assembly 27.-30.12.2021 rc3_2021
+
+Techn. Name (Slug): Multigeiger
+Name: Multigeiger - eigenen Geigerzähler löten und am Bürger-Messnetz für Radioaktivität teilnehmen
+
+Beschreibung:
+
+Mit dem stationären Multigeiger kannst Du in Deiner Gegend die lokale Radioaktivität (Gammastrahlung) messen, indem du ihn in Deinen Garten oder auf eine Wiese stellst - und Du kannst Teil des großen https://multigeiger.citysensor.de/ Messnetzes für Radioaktivität in BürgerInnenhand werden.
+
+Warum haben wir eine eigene Geigerzählervariante entwickelt?
+
+Vorhandene Varianten sind entweder teuer oder wenig empfindlich. Darum haben wir das Open-Source-Projekt Multigeiger gestartet und ein Gerät aus kostengünstigen Bauteilen, aber mit einem empfindlichen Zählrohr entwickelt, den Du Dir einfach zusammen­bauen und sowohl mobil als auch stationär nutzen kannst, also multifunktional.
+
+Der mobile Multigeiger kann bereits die Zählrate per Bluetooth senden. Für die Übertragung der Zählimpulse nutzen wir den „Heart-Rate-Service von Fitness-Apps. Aktuell wollen wir das Gehäuse und die Stromversorgung modifizieren – dann kannst Du losgehen und unterwegs messen. Es gibt genug spannende Stellen - vom Granitbodenbelag im Herzen unserer Großstädte bis zu ehemaligen Abbaugebieten von Uran.
+
+Und sobald es wieder möglich ist, werden wir deutschlandweit DIY-Workshops anbieten. Wir freuen uns wenn Du mit dabei bist, mit uns ein eigenes Bürgermessnetz für Radioaktivität aufzubauen.
+
+Uns sind auch andere Projekte ähnlicher Art bekannt, mit denen wir vernetzt sind.
+
+Metainformationen:
+
+Wir waren erstmals auf dem 36C3 (2019) in Leipzig mit täglichen Workshops vertreten, die alle stark nachgefragt und ausgebucht waren. Auf dem rc3_2020 präsentierten wir unseren Workshop erstmals virtuell. Aufgrund des außerordentlich großen Erfolges in 2020 sind wir auch diesmal wieder auf dem rc3_2021 mit dabei.
+
+Kommt zahlreich vorbei, informiert Euch (wir haben kurze PDF-Infoflyer „zum Mitnehmen“ erstellt) und stellt auch gerne Fragen (wir haben eine Infotafel, auf der unsere Präsenzzeiten stets aktuell angezeigt werden). Und wir haben mehrere Videos erstellt, die den Hardware-Zusammenbau, die Software (das Flashen, wer will) und die wikidata-Query-Erstellung zur Abfrage der nuklearen Orte auf der Erde zeigen. Also, wie man das macht.
+
+Projekt: https://ecocurious.de/projekte/multigeiger-2/
+
+Map: https://ecocurious.de/multigeiger-karte/ und https://multigeiger.citysensor.de/
+
+Mail: multigeiger@ecocurious.de
+
+Twitter: @ecocurious_lab
+
+
+Link:
+https://ecocurious.de/projekte/multigeiger-2/
+
+Ort:
+Workadventure
+
+Befreundete Assemblies:
+    c-base
+    Bits & Bäume
+    OpenStreetMap
+    WikiPakaWG
+    CityLAB Berlin
+
+tags: 
+    radioactivity
+    geiger-counter
+    citizien-science
+    buerger-mess-netzwerk
+    multigeiger
+    ecocurious
+    geiger-zaehlrohr
+    radioaktivitaet-messen
+
+
